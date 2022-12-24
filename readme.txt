@@ -1,4 +1,4 @@
-Answer 1.0
+Answer 1.1
 -----------
 
 A very simple version of the "What's your name? - Hello ...." programs, which asks you for your name and then answers with a Greeting including your name.
@@ -8,6 +8,16 @@ Usually these programs belong to the first exercises everyone does when beginnin
 Just invoke the program after compilation.
 
 It will ask you for your name and then greet you with your name.
+
+In version 1.1 the prompt to enter your name was designed in a more polite way, so it does not just ask
+
+  Name :
+  
+but more polite
+
+  Your name :
+  
+
 
 Attention:
 
@@ -22,6 +32,11 @@ Your name will be stored in the memory of your computer for the running time of 
 
 Version history
 ---------------
+
+Version 1.1
+
+Improved the user interaction by a more polite prompt.
+
 
 Version 1.0
 
